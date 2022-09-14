@@ -1,5 +1,5 @@
 # apk_cure
-Fixing dirty apk(zip) format and AndroidManifest.xml in archive.
+Fixing dirty apk(zip) file header and AndroidManifest.xml in the archive.
 
 # Usage
 $> python ./apk_cure.py -i source -o destination
